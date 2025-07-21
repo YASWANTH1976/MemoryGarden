@@ -278,10 +278,10 @@ This project is created for educational and competition purposes. All rights res
 
 ## 📞 Contact
 
-**Project Creator**: [Your Name]  
-**Email**: [your.email@example.com]  
+**Project Creator**: [Yaswanth Naga Sai K]  
+**Email**: [yaswanthsai5704@gmail.com]  
 **Hackathon**: Fusion Hacks 2  
-**Submission Date**: [Current Date]  
+**Submission Date**: [21-07-2025]  
 
 ---
 
