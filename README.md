@@ -1,11 +1,9 @@
 # 🌱 Memory Garden - Where Memories Bloom Into Stories
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://timely-platypus-b9ac10.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://memorygardenfusionhack.netlify.app/)
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61dafb)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38b2ac)](https://tailwindcss.com/)
-
-> **Winner Submission for Fusion Hacks 2** - A cross-disciplinary platform that transforms summer memories into a living digital garden through the fusion of psychology, botany, environmental science, and data visualization.
 
 ## 🎯 Project Overview
 
@@ -21,7 +19,7 @@ Unlike traditional memory-keeping apps, Memory Garden creates a **living ecosyst
 
 ## 🚀 Live Demo
 
-**[Visit Memory Garden →](https://timely-platypus-b9ac10.netlify.app)**
+**[Visit Memory Garden →](https://memorygardenfusionhack.netlify.app/)**
 
 ## 🎨 Features
 
@@ -289,6 +287,6 @@ This project is created for educational and competition purposes. All rights res
 
 **🌱 Plant a memory, grow a story, cultivate your digital garden 🌱**
 
-[Live Demo](https://timely-platypus-b9ac10.netlify.app) • [Documentation](#) • [Report Bug](#) • [Request Feature](#)
+[Live Demo](https://memorygardenfusionhack.netlify.app/) • [Documentation](#) • [Report Bug](#) • [Request Feature](#)
 
 </div>
